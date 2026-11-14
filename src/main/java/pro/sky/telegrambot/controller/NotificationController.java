@@ -4,7 +4,6 @@ package pro.sky.telegrambot.controller;
 import org.springframework.web.bind.annotation.*;
 
 import pro.sky.telegrambot.service.NotificationService;
-
 @RestController
 @RequestMapping("/debug")
 public class NotificationController {

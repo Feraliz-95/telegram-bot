@@ -28,3 +28,4 @@ databaseChangeLog:
                   type: TIMESTAMP
                   constraints:
                     nullable: false
+
